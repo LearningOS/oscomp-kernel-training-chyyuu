@@ -41,3 +41,6 @@ CI执行完毕后，会在你的repo中的 gp-pages 分支下生成相关的 `lo
 - 内核可用内存大小为 `2G`
 - 只有 `main` 分支的提交可以被评测机处理
 - 评测机在初次运行时需要编译 `qemu`，可能需要花费一些时间，请耐心等待
+
+## 学习资源
+- [2022暑期开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
