@@ -43,7 +43,7 @@ CI执行完毕后，会在你的repo中的 gp-pages 分支下生成相关的 `lo
 - 评测机在初次运行时需要编译 `qemu`，可能需要花费一些时间，请耐心等待
 
 ## 学习资源
-### 2022OS比赛内核实现赛道一等奖的仓库
+### 2022OS比赛内核实现赛道一等奖的仓库（包含文档/代码等）
 - [北航：图漏图森破](https://gitlab.eduxiji.net/19373469/oskernel2022-x.git)
 - [西工大：NPUcore](https://gitlab.eduxiji.net/2019301887/oskernel2022-npucore.git)
 - [清华：Maturin](https://gitlab.eduxiji.net/scPointer/maturin.git)
