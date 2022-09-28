@@ -48,7 +48,7 @@ pub extern "C" fn rust_main(hart_id: usize, _device_tree_addr: usize) -> ! {
     }
     
     // 调用rust api关机
-    panic!("正常关机")
+    panic!("normal shutdown")
 }
 
 
